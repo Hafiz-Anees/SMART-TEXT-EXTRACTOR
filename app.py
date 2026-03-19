@@ -5,7 +5,7 @@ from logic import extract_text_from_pdf
 
 
 # Page config
-st.set_page_config(page_title="PDF Extractor", layout="wide")
+st.set_page_config(page_title="Text Extractor", layout="wide")
 
 # UI sections
 sidebar()
