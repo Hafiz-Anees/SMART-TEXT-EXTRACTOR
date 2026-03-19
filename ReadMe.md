@@ -1,4 +1,4 @@
-# ✨ Smart PDF Text Extractor
+# ✨ Smart PDF Text Extractor  [Live Demo](https://smart-text-extractor.streamlit.app/)
 
 A beautiful and user-friendly **Streamlit web app** to extract text from PDF files instantly.
 
